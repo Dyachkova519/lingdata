@@ -874,7 +874,7 @@
 871	?	?	PUNCT	_	_	_	_	_	words@nns1982m#@nns1982m#1550.836#1550.927
 872	/	/	PUNCT	_	_	_	_	_	words@nns1982m#@nns1982m#1550.927#1551.054
 873	/	/	PUNCT	_	_	_	_	_	words@nns1982m#@nns1982m#1551.054#1551.19
-874 просто  просто  PART  _	_	_	_	_	words@nns1982m#@nns1982m#1558.7#1558.963
+874 просто  просто  PART  _ _ _ _ _ words@nns1982m#@nns1982m#1558.7#1558.963
 875	нет	нет	PART	_	_	_	_	_	words@nns1982m#@nns1982m#1558.963#1559.226
 876	/	/	PUNCT	_	_	_	_	_	words@nns1982m#@nns1982m#1559.226#1559.489
 877	сегодня	сегодня	ADV	_	Degree=Pos	_	_	_	words@nns1982m#@nns1982m#1559.489#1559.752
@@ -971,7 +971,7 @@
 968	отклик	отклик	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@nns1982m#@nns1982m#1703.454#1703.784
 969	/	/	PUNCT	_	_	_	_	_	words@nns1982m#@nns1982m#1703.784#1704.114
 970	/	/	PUNCT	_	_	_	_	_	words@nns1982m#@nns1982m#1704.114#1704.45
-971	ну	ну	INTJ  _	_	_	_	_	words@nns1982m#@nns1982m#1714.617#1714.803
+971	ну	ну	INTJ	_	_	_	_	_	words@nns1982m#@nns1982m#1714.617#1714.803
 972	вас	вы	PRON	_	Case=Acc|Number=Plur|Person=2	_	_	_	words@nns1982m#@nns1982m#1714.803#1714.989
 973	задевает	задевать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@nns1982m#@nns1982m#1714.989#1715.175
 974	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@nns1982m#@nns1982m#1715.175#1715.361
